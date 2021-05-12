@@ -26,7 +26,7 @@
             <groupId>jdk.tools</groupId>  
         </exclusion>  
     	</exclusions> 
-      <version>4.10.4</version>
+      <version>8.8.2</version>
       <type>jar</type>
       <scope>compile</scope>
     </dependency>
